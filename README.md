@@ -1,6 +1,6 @@
 # Tabuada em JavaScript
 
-Este é um projeto simples para aprender e aplicar JavaScript, onde o usuário pode gerar a tabuada de um número até um número de multiplicação especificado. A tabuada é gerada dinamicamente, mostrando as operações e resultados no na
+Este é um projeto simples para aprender e aplicar JavaScript, onde o usuário pode gerar a tabuada de um número até um número de multiplicação especificado. 
 
 ## Funcionalidades
 
